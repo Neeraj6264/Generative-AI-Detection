@@ -1,6 +1,4 @@
-# Generative AI Detection
 
-![demo image](https://github.com/AkashKobal/Generative-AI-Detection/blob/main/Screenshot%20(366).png)
 
 ## Overview
 
