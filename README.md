@@ -13,7 +13,7 @@ This project is a web application built using **ReactJS** for the frontend and *
 - [Evaluation Metrics](#evaluation-metrics)
 - [Submission Guidelines](#submission-guidelines)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
